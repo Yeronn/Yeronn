@@ -8,8 +8,6 @@
 
 💻 I have 6 months of experience as a backend developer using .NET.
 
-📚 I’m currently studying Angular to expand my frontend development skills and build complete web applications.
-
 🚀 I’m excited to face new challenges, learn from different areas of programming, and contribute ideas to improve project quality.
 
 👥 I enjoy collaborating in teams, sharing ideas, and growing alongside other developers.
