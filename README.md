@@ -22,7 +22,7 @@
 <h2>Tech Stack 👨🏻‍💻</h2>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,html,js,cs,java,py,react,dotnet,spring,unity,&perline=8" />
+    <img src="https://skillicons.dev/icons?i=css,html,js,cs,py,react,dotnet,unity,&perline=8" />
   </a>
 </p>
 <br>
