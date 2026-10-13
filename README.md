@@ -38,13 +38,8 @@
 
 <ul>
   <li>
-    🎯 <a href="https://github.com/Yeronn/MarketPlace" target="_blank"><strong>MarketPlace</strong></a><br>
-    Sales and product management platform focused on e-commerce.
-  </li>
-  <br>
-  <li>
-    🍞 <a href="https://github.com/Yeronn/Panader-a" target="_blank"><strong>Bakery</strong></a><br>
-    Frontend project for a bakery.
+    ⚔️ <a href="https://github.com/Yeronn/AprendiendoNet8" target="_blank"><strong>Aprendiendo .NET 8</strong></a><br>
+    Practice project developed during my internship to learn and explore .NET 8 and its core concepts.
   </li>
   <br>
   <li>
@@ -55,6 +50,16 @@
   <li>
     🎮 <a href="https://github.com/Yeronn/GAME" target="_blank"><strong>GAME</strong></a><br>
     3D online multiplayer game inspired by Bomberman, featuring customizable maps and real-time gameplay.
+  </li>
+  <br>
+  <li>
+    🎯 <a href="https://github.com/Yeronn/MarketPlace" target="_blank"><strong>MarketPlace</strong></a><br>
+    Sales and product management platform focused on e-commerce.
+  </li>
+  <br>
+  <li>
+    🍞 <a href="https://github.com/Yeronn/Panader-a" target="_blank"><strong>Bakery</strong></a><br>
+    Frontend project for a bakery.
   </li>
 </ul>
 
