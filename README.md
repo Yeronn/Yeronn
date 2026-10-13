@@ -38,7 +38,7 @@
 
 <ul>
   <li>
-    ⚔️ <a href="https://github.com/Yeronn/AprendiendoNet8" target="_blank"><strong>Aprendiendo .NET 8</strong></a><br>
+    📚 <a href="https://github.com/Yeronn/AprendiendoNet8" target="_blank"><strong>Aprendiendo .NET 8</strong></a><br>
     Practice project developed during my internship to learn and explore .NET 8 and its core concepts.
   </li>
   <br>
